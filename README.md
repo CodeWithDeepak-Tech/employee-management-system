@@ -5,6 +5,10 @@ role-based authorization, employee CRUD operations, search, pagination, and empl
 
 ---
 
+## 🔗 Project Links
+
+- **GitHub Repository:** https://github.com/CodeWithDeepak-Tech/employee-management-system
+
 ## 📌 Project Overview
 
 The Employee Management System is designed to simplify the management of employee records in an organization.
