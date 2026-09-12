@@ -203,28 +203,19 @@ employee-management-system
 ```
 
 ---
-
-## 📸 Screenshots
-
 ### 1. 🔐 Login Page
 
-The login page provides secure authentication for registered users.
-
-![Login Page](screenshots/login.png)
+![Login Page](screenshots/login.jpeg)
 
 ---
 
 ### 2. 📝 Registration Page
 
-New users can create an account using the registration form.
-
-![Registration Page](screenshots/register.png)
+![Registration Page](screenshots/register.jpeg)
 
 ---
 
 ### 3. 👨‍💼 Employee Dashboard
-
-The dashboard displays employee records with search, pagination, and employee management options.
 
 ![Employee Dashboard](screenshots/dashboard.png)
 
@@ -232,35 +223,27 @@ The dashboard displays employee records with search, pagination, and employee ma
 
 ### 4. ➕ Add Employee
 
-Users can add new employee records through the employee registration form.
-
-![Add Employee](screenshots/add-employee.png)
+![Add Employee](screenshots/add-employee.jpeg)
 
 ---
 
 ### 5. ✏️ Edit Employee
 
-Existing employee information can be updated through the edit functionality.
-
-![Edit Employee](screenshots/edit-employee.png)
+![Edit Employee](screenshots/edit-employee.jpeg)
 
 ---
 
 ### 6. 🔍 Search Employee
 
-Employees can be searched quickly using the search functionality.
-
-![Search Employee](screenshots/search.png)
+![Search Employee](screenshots/search.jpeg)
 
 ---
 
 ### 7. 📊 Excel & PDF Export
 
-Employee records can be exported to Excel and PDF for reporting and offline use.
+![Excel Export](screenshots/excel.png)
 
-![Export Employee Data](screenshots/export.png)
-
----
+![PDF Export](screenshots/pdf.png)
 
 ## 🔑 Security
 
