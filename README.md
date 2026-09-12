@@ -5,9 +5,10 @@ role-based authorization, employee CRUD operations, search, pagination, and empl
 
 ---
 
-## 🔗 Project Links
+## 🚀 Live Demo
 
-- **GitHub Repository:** https://github.com/CodeWithDeepak-Tech/employee-management-system
+**Live Application:**  
+https://employee-management-system-production-2230.up.railway.app/login
 
 ## 📌 Project Overview
 
