@@ -417,13 +417,6 @@ http://localhost:8080/login
 
 ---
 
-## 🧪 Testing
-
-Run the tests using:
-
-```bash
-mvn test
-```
 
 ---
 
